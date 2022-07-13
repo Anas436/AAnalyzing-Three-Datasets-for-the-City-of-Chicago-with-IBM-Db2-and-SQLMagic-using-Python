@@ -1,4 +1,4 @@
-# AAnalyzing-Three-Datasets-for-the-City-of-Chicago-with-IBM-Db2-and-SQLMagic-using-Python
+# Analyzing-Three-Datasets-for-the-City-of-Chicago-with-IBM-Db2-and-SQLMagic-using-Python
 
 
 
